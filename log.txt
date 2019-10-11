@@ -1,0 +1,48 @@
+device B: package  0 sent.
+device A: package  0 sent.
+device B: conflict detected when sending package  1. send a while later.
+device A: package  1 sent.
+device A: package  2 sent.
+device B: package  1 sent.
+device B: package  2 sent.
+device B: conflict detected when sending package  3. send a while later.
+device A: package  3 sent.
+device A: conflict detected when sending package  4. send a while later.
+device B: package  3 sent.
+device B: conflict detected when sending package  4. send a while later.
+device A: package  4 sent.
+device A: conflict detected when sending package  5. send a while later.
+device B: package  4 sent.
+device B: package  5 sent.
+device A: package  5 sent.
+device A: conflict detected when sending package  6. send a while later.
+device B: package  6 sent.
+device B: package  7 sent.
+device B: package  8 sent.
+device B: package  9 sent.
+device A: package  6 sent.
+device A: conflict detected when sending package  7. send a while later.
+device B: package 10 sent.
+device B: package 11 sent.
+device B: package 12 sent.
+device A: package  7 sent.
+device B: package 13 sent.
+device A: conflict detected when sending package  8. send a while later.
+device B: package 14 sent.
+device B: package 15 sent.
+device B: package 16 sent.
+device B: package 17 sent.
+device B: package 18 sent.
+device B: package 19 sent.
+device A: package  8 sent.
+device A: package  9 sent.
+device A: package 10 sent.
+device A: package 11 sent.
+device A: package 12 sent.
+device A: package 13 sent.
+device A: package 14 sent.
+device A: package 15 sent.
+device A: package 16 sent.
+device A: package 17 sent.
+device A: package 18 sent.
+device A: package 19 sent.
